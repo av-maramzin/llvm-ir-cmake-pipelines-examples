@@ -3,4 +3,4 @@
 	url = https://github.com/compor/llvm-ir-cmake-utils/
 [submodule "cmake/llvm-ir-cmake-pipelines"]
 	path = cmake/llvm-ir-cmake-pipelines
-	url = https://github.com/compor/llvm-ir-cmake-pipelines
+	url = https://github.com/av-maramzin/llvm-ir-cmake-pipelines
